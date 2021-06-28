@@ -15,5 +15,6 @@ export default Container
 const Containerdiv = styled.div `
     background: #67bc98;
     height: 100vh;
+    width: 100vw;
 
 ` 
