@@ -1,9 +1,11 @@
-
+import Container from './components/Container' ;
+import Navbar from './components/Navbar' ;
 
 const App = () => {
   return (
     <div>
-      <h1>Welcome</h1>
+      <Container />
+      <Navbar />
     </div>
   )
 }
